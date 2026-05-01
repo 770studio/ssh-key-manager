@@ -58,11 +58,8 @@ Screenshots are strongly recommended for GitHub:
 
 Put images into `docs/screenshots/` and reference them in markdown:
 
-```md
-![Keys tab](docs/screenshots/keys-tab.png)
-![Delete Keys tab](docs/screenshots/delete-keys-tab.png)
-![Rotate Keys tab](docs/screenshots/rotate-keys-tab.png)
-```
+![Keys tab](docs/screenshots/keys.png)
+![Delete Keys tab](docs/screenshots/delete-keys.png)
 
 You can add screenshots manually from GitHub web UI too, but keeping them in repo is better for versioning.
 
