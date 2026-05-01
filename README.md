@@ -1,6 +1,6 @@
 # SSH Key Manager
 
-PowerShell WinForms tool for SSH key lifecycle operations:
+Windows-only PowerShell WinForms tool for SSH key lifecycle operations:
 - Generate key pairs
 - Add keys to remote servers
 - List and delete keys from `authorized_keys`
