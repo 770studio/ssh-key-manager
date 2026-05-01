@@ -1,0 +1,20 @@
+# Runtime / local artifacts
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Local test/debug inputs
+prompt.txt
+config.test
+
+# Old local script copies (keep main script only)
+ssh-manager02.ps1
+ssh-manager03.ps1
+ssh-manager - Copy.ps1
+
+# PowerShell module cache (if appears)
+*.psd1.cache
+
